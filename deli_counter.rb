@@ -4,6 +4,7 @@ def line(katz_deli)
 other_line = other_deli
 another_line = another_deli
 all_lines = other_line + another_line
+puts "The line is currently empty."
 
 end
 
