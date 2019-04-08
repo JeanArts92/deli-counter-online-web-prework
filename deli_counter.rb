@@ -3,7 +3,7 @@
 def line(katz_deli)
 other_line = other_deli
 another_line = another_deli
-
+all_lines =
   puts "The line is currently empty. #{new_array}"
 end
 end
