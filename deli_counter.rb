@@ -21,7 +21,7 @@ end
 
 def now_serving(another_deli)
   if katz_deli == 0 
-    puts "There are no people in the line."
+    puts "There is nobody waiting to be served!"
   
 end
 
