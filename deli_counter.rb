@@ -14,7 +14,8 @@
 
 end
 
-def take_a_number(other_deli)
+def take_a_number(katz_deli, string)
+  
   
 end
 
