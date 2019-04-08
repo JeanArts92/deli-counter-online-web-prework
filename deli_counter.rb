@@ -15,8 +15,8 @@
 end
 
 def take_a_number(katz_deli, string)
-  
-  
+  katz_deli.each_with_index do |name, index|
+    message = {name, index.to_i + 1}
 end
 
 def now_serving(another_deli)
